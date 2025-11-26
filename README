@@ -1,0 +1,3 @@
+To get the bot working,
+in powershell please enter: setx DISCORD_BOT_TOKEN "MTQ0MzA1MTA2NTkwMDc5Mzg1Ng.GoZjWo.xTuZifuzbIxPhWqOBIcAjxRwELuCMEQO7_usgE"
+and then open a new powershell and enter: python "file-path-here"
